@@ -22,4 +22,6 @@ Experiment TailwindCSS by few parts of web.dev with responsive such as :
   ```npm run dev```
   
 # references 
-https://tailwindcss.com/
+* https://tailwindcss.com/
+* https://2020.stateofcss.com/en-US/technologies/css-frameworks/
+* https://fonts.google.com/icons
