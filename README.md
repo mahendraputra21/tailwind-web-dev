@@ -21,5 +21,5 @@ Experiment TailwindCSS by few parts of web.dev with responsive such as :
 * Run Local Server && 
   ```npm run dev```
   
-# refrences 
+# references 
 https://tailwindcss.com/
